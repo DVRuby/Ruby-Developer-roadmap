@@ -8,8 +8,8 @@ nav_order: 1
 
 ## Trainee
 
-{% include_relative requirements/trainee.md %}
-[Подробнее]({{ '/docs/grades/trainee' | relative_url }})
+Trainee.md
+[Подробнее]
 
 ## Junior
 
